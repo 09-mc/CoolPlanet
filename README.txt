@@ -8,15 +8,6 @@ I used Comparator for sorting the list first by surname and then by first name, 
 
 Final steps were to convert the sorted arraylist into a jsonarray and then add this to a jsonfile.
 
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Some improvements that I would make to the program would be:
-
-- Allow for file selection for the input file
-- Allow for the json file to be named by the user
-- Give the user choice over what employee attributes are selected
-- Make the age on new years part a decision on whether its needed or to change the age
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 General Requirements
